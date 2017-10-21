@@ -7,6 +7,7 @@
       <li><a href="/api/stats/week/1">Week 1</a></li>
       <li><a href="/api/stats/week/2">Week 2</a></li>
       <li><a href="/api/stats/week/3">Week 3</a></li>
+      <li><a href="/api/stats/week/4">Week 4</a></li>
     </ul>
   </div>
 </template>
