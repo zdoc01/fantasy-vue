@@ -64,8 +64,8 @@
     "webpack-hot-middleware": "^2.18.0"
   },
   "engines": {
-    "node": ">= 4.0.0",
-    "npm": ">= 3.0.0"
+    "node": "8.x",
+    "npm": "5.x"
   },
   "browserslist": [
     "> 1%",
