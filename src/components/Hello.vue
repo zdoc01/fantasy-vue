@@ -12,6 +12,7 @@
       <li><a href="/api/stats/week/6">Week 6</a></li>
       <li><a href="/api/stats/week/7">Week 7</a></li>
       <li><a href="/api/stats/week/8">Week 8</a></li>
+      <li><a href="/api/stats/week/9">Week 9</a></li>
     </ul>
   </div>
 </template>
